@@ -3,21 +3,15 @@
 
 
 
-A site to summa my works and talents.
+
 ## Installation
 
-Install this portfolio with npm
+Para instalar esse portfólio você só precisa usar esses comandos abaixo:
 
 ```bash
   npm install 
-  cd personal-portfolio
+  cd freelancer-portfolio
 ```
     
-## Get A Glance
-
-![sample](https://i.postimg.cc/3r2yyNgF/image.png)
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
 
