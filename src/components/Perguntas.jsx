@@ -49,7 +49,7 @@ const Perguntas = () => {
     },
     {
       id: 5,
-      title: "O que é Web Scraping?",
+      title: "Você sabe o que é Web Scraping e para que ele serve?",
       description: (
         <p>
          Web Scraping ou raspagem de rede é uma <span style={{color: 'cyan'}}>técnica de coleta de dados de plataformas online, como sites, redes sociais etc</span>. Por meio do Web Scraping, é <span style={{color: 'cyan'}}>possível identificar o que os consumidores estão pesquisando no mercado, comparar preços de produtos em lojas diferentes, monitorar o tempo de permanência em determinado site e muito mais!</span> 
@@ -109,8 +109,8 @@ const Perguntas = () => {
 
             >
               <div className={"flex items-center"}>
-              <AiFillForward size={21}/>
-                <p className="ml-3">{title}</p>
+              <AiFillForward size={window.innerWidth < 600 ? 28 : 21} /> {/* If the window width is less than 600 pixels, it sets the size to 28; otherwise, it sets it to 21. */}
+               <p className="ml-3">{title}</p>
               </div>
 
               {selectedQuestion === id && (
