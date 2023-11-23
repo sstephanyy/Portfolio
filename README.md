@@ -5,7 +5,7 @@ Sdweb é um site de portfólio freelancer totalmente responsivo, compatível com
 
 ## Demo
 
-![Image](../Portfólio/src/assets/portfolio.png)
+![Image](./src/assets/portfolio.png)
 
 
 ## Instalação
