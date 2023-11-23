@@ -1,7 +1,7 @@
 
 # Portfolio Freelancer 
 
-Sdweb é um site de portfólio freelancer totalmente responsivo, compatível com todos os dispositivos. O site oferece serviços de automações de processos a fim de simplificar tarefas repetitivas e melhorar a produtividade.🚀
+**Sdweb** é um site de portfólio freelancer totalmente responsivo, compatível com todos os dispositivos. O site oferece serviços de automações de processos a fim de **simplificar tarefas repetitivas** e **melhorar a produtividade**.🚀
 
 ## Demo
 
